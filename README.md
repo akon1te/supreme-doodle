@@ -19,11 +19,14 @@ Students at the Higher School of Economics, Nizhniy Novgorod.
 - `paper/`  
   Contains the **CP1 project report**, including a detailed description of the research problem, related work, and the dataset to be used in the analysis.
 
-## 🛠️ Project Status
+- `data/`  
+  Contains the **datasets**: WebQSP with preprocessed entities and relations
 
-- ✅ CP1 report completed  
-- ⏳ Data preprocessing and experimental setup in progress  
-- 🔜 Evaluation and analysis planned
+- `results/`  
+  Contains the **results of exps**
+
+- `notebooks/`  
+  Contains the notebooks with datasets preprocessing, exps with GNN models and QwenReranker
+
 
 Stay tuned for updates!
-
